@@ -18,7 +18,7 @@ Je regrette un peu de n'avoir pas su faire des renvois interractifs entre l'indi
 J'aurais aimé qu'on puisse cliquer sur la note dans l'**Introduction** qui nous renvoie dans les **Notes**, puis que l'on puisse recliquer sur la note dans les **Notes** afin de revenir au texte de l'**Introduction**.
 Donc je peux encore m'améliorer !
 
-Ca y est ! Amélioration faite en cours ! On peut désormais cliquer sur les notes dans le texte de l**Introduction** et l'on est renvoyé à la note correspondante dans les **Notes**, qui apparait tout en haut de l'écran.
+Ca y est ! Amélioration faite en cours ! On peut désormais cliquer sur les notes dans le texte de l'**Introduction** et l'on est renvoyé à la note correspondante dans les **Notes**, qui apparait tout en haut de l'écran.
 
 La position des **Notes** à la fin de l'**Introduction** est du au format de la page web qui se déroule sans césure. Avec le renvoi hyperlien interne on y accède facilement.
 Ces notes sont collés au coté gauche de la page pour maximiser l'espace et diminuer leur encombrement sur la page web. Il en résulte peut-être un manque de lisibilité pour les notes à 2 chiffres, mais il est minime.
